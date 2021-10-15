@@ -1,0 +1,194 @@
+.start-body {
+    margin: 25px;
+    border: 3px solid black;
+    border: transparent;
+  }
+.index-body {
+    margin: 20px;
+    border: transparent;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+  .end-body {
+    margin: 20px;
+    border: 3px solid black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+.welcome-text {
+    text-align: center;
+    text-size-adjust: 10px;
+}
+.end-picture {
+    width: 354px;
+    border: 3px solid black;
+    border-right: 0px;
+    border-left: 0px;
+    margin: 0px;
+}
+.index-picture {
+    height: 185px;
+    width: 368px;
+    border: 3px solid black;
+    border-right: 0px;
+    border-left: 0px;
+    border-top: transparent;
+    border-bottom: transparent;
+}
+.upper-start-logo {
+    border-right: 1px;
+    border-left: 1px;;
+    border: transparent;
+    height: 50px;
+    width: 100%;    
+}
+#element1 {
+    float: left;
+}
+#element2 {
+    float: right;
+}
+.upper-index-logo {
+    height: 50px;
+    width: 100%;
+    border-bottom: 0.25px solid lightgray;
+}
+#element3 {
+    float: left;
+}
+#element4 {
+    float: right;
+}
+.upper-end-logo {
+    border: 3px solid rgb(118, 119, 119);
+    border-top: 1px;
+    border-right: 1px;
+    border-left: 1px;
+}
+.start-button {
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    margin: 0% 15.5%;
+}
+.start-text-box {
+    margin: 20px;
+    border-radius: 10px;
+    height: 300px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: transparent;
+}
+    
+.index-button {
+    margin: 0% 16%;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: lightslategrey;
+    color: white;
+    border: transparent;
+}
+.index-question-box {
+    background-color: lightgrey;
+    height: 100%;
+    width: 100%;
+}
+.question {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.question-instruction {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+    text-align: center;
+}
+.answer-blue {
+    margin: 1% 7%;
+    border: transparent;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%;
+    background-color: white;
+    height: 38px;
+}
+.checkbox-answer-blue {
+    float: left;
+    width: 30px;
+    height: 30px;
+    color: transparent;
+    background-color: lightgray;
+}
+.text-answer-blue {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.answer-yellow {
+    margin: 1% 7%;
+    border: transparent;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%;
+    background-color: white;
+    height: 38px;
+}
+.checkbox-answer-yellow {
+    float: left;
+    width: 30px;
+    height: 30px;
+    color: transparent;
+    background-color: lightgray;
+}
+.text-answer-yellow {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.answer-red {
+    margin: 1% 7%;
+    border: transparent;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%;
+    background-color: white;
+    height: 38px;
+}
+.checkbox-answer-red {
+    float: left;
+    width: 30px;
+    height: 30px;
+    color: transparent;
+    background-color: lightgray;
+}
+.text-answer-red {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.start-footer {
+    margin-top: 40px;
+    border: 3px solid black;
+    border-right: 1px;
+    border-left: 1px;
+    border-bottom: 1px;
+    text-align: center;
+    height: 58px;
+    border-top: transparent;
+
+}
+.index-footer {
+    margin-top: 40px;
+    border: 3px solid black;
+    border-right: 1px;
+    border-left: 1px;
+    border-bottom: 1px;
+    text-align: center;
+    height: 58px;
+    border-top: transparent;
+}
+.upper-start-picture {
+    width: 100%;
+    height: 50px;
+}
+.mid-start-picture {
+    height: 452px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEfOHdUxRncn-gQeifYDzJJa9JxCpe1u2VwxI49ymlb0tGdn9tugtU7g_KC2gvxYDeSw&usqp=CAU");
